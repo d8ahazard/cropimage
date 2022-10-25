@@ -1,0 +1,5 @@
+
+.idea/*
+build/*
+dist/*
+cropimage_dh.egg-info/*
